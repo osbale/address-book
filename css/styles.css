@@ -1,0 +1,25 @@
+:root {
+  --main-bg-color: coral;
+  --main-txt-color: blue;
+  --main-padding: 15px;
+  --main-btn-bg-color: #e6e6e6;
+  --main-btn-active-color: red;
+}
+
+h4 {
+  margin-top:10px;
+}
+
+#addresses p, input{
+  margin-bottom: 5px;
+}
+
+.uk-icon-button {
+  color: white;
+  background-color: var(--main-btn-bg-color);
+  cursor: pointer;
+}
+
+.active {
+  background-color: var(--main-btn-active-color);
+}

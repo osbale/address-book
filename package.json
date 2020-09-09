@@ -1,0 +1,12 @@
+{
+  "name": "address-book",
+  "version": "1.0.0",
+  "description": "address book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Bale",
+  "license": "MIT",
+  "dependencies": {}
+}
